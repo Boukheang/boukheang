@@ -1,16 +1,45 @@
-boukheang
+# 👋 Hello, I'm Boukheang
 
-<!--
-**Boukheang/boukheang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Cybersecurity Student
 
-Here are some ideas to get you started:
+Focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Penetration Testing
+- Network Security
+- Malware Analysis
+- Web Security
+- Python Development
+
+## 🛠️ Technologies
+
+```text
+Python
+Java
+Linux
+Git
+Bash
+MySQL
+Wireshark
+Metasploit Framework
+```
+
+## 📚 Currently Learning
+
+- Hackthebox
+- Tryhackme
+
+## 📈 Goals
+
+- Build practical security tools
+- Contribute to open-source projects
+- Earn cybersecurity certifications
+
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boukheang&show_icons=true)
+
+## 🔗 Connect
+
+GitHub: https://github.com/boukheang
